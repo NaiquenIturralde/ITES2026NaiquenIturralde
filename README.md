@@ -1,2 +1,2 @@
 "# ITES2026NaiquenIturralde"
-Estudio
+Estudio y programacion test1
